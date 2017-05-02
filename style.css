@@ -1,0 +1,28 @@
+/* This is a CSS comment.*/
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
+body {
+  margin: 20px;
+}
+.description {
+  color: #7C8B88;
+  font-style: normal;
+  font-family: arial;
+  font-size: larger;
+  margin-left: 30px;
+}
+.app {
+  display: -webkit-flex;
+  display: flex;
+}
+.title {
+  font-family: arial;
+	background-color: #33BEBE;
+	font-weight: normal;
+	font-size: -webkit-xxx-large;
+	color: aliceblue;
+}
